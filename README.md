@@ -53,24 +53,24 @@ This Project was organized by stages. The Stage 01 is explained in Stage01.md. T
 - Determine what tech tools we will use.
 
 
-## Etapa 02: Exploratory analysis
+## Stage 02: Exploratory analysis
 
 - Carry out the basic operations of data exploration.
 - Plot and visualization of the preprocessing data.
 
-## Etapa 03: Data cleaning and normalization
+## Stage 03: Data cleaning and normalization
 
 - Data normalization.
 - Identify outliers, missing values, null values.
 - Impute missing values or null values if it's necessary.
 - Add features based on the original data for a better analysis.
 
-## Etapa 04: Data processing and visualization
+## Stage 04: Data processing and visualization
 
 - Data analytics in PowerBi
 - Data visualization in PowerBi
 
-## Etapa 05: Machine Learning Model
+## Stage 05: Machine Learning Model
 
 - Make a machine learning model based on supervised learning algorithms for predict the total fare amount of a trip.
 
